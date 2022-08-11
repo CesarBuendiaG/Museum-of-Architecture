@@ -1,5 +1,5 @@
-# Museum-of-Architecture
+# Museum of Architecture
 
-Creacion de un sitio web
+Creacion de un sitio web responsivo 
 
 Practica para el uso de Bootstrap
