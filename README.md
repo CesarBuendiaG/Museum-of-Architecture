@@ -1,5 +1,5 @@
-# Museum of Architecture
+# The Art of Architecture
 
-Creacion de un sitio web responsivo 
+A responsive website using Bootstrap as the main tool
 
-Practica para el uso de Bootstrap
+Practice derived from Colt Steele Bootcamp
